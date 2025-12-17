@@ -81,3 +81,6 @@ This file will be updated daily with random notes and activities.
 
 [2025-12-17 13:21] learning - update
 [2025-12-17 13:21] planning - update
+
+[2025-12-17 21:01] research - update
+[2025-12-17 21:01] documentation - update
