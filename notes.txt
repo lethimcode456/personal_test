@@ -93,3 +93,6 @@ This file will be updated daily with random notes and activities.
 
 [2025-12-26 16:35] cleanup - update
 [2025-12-26 16:35] documentation - update
+
+[2025-12-31 12:38] bug fixes - update
+[2025-12-31 12:38] planning - update
